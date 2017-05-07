@@ -5,6 +5,7 @@
 //---------------------------------------
 
 pwd: show all the path of cuurent directory
+cd ..: move to the directory above
 
 
 
